@@ -5,3 +5,5 @@ The process of the work is the following one:
  - Download the data understat.com.csv from Sergi Lehkyi Kaggle's profile: https://www.kaggle.com/slehkyi (thankful to him).
  - Process the data in R by the script shared.
  - Make the viz in Tableau Desktop 2020.4 using the processed data football_final.csv.
+
+The viz is available also in Tableau Public: https://public.tableau.com/views/Big5FootballLeagues2014-2020/Comparator?:language=en-US&:display_count=n&:origin=viz_share_link
