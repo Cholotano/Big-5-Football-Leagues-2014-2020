@@ -6,4 +6,4 @@ The process of the work is the following one:
  - Process the data in R by the script shared.
  - Make the viz in Tableau Desktop 2020.4 using the processed data football_final.csv.
 
-The viz is available also in Tableau Public: https://public.tableau.com/views/Big5FootballLeagues2014-2020/Comparator?:language=en-US&:display_count=n&:origin=viz_share_link
+The viz is available also in Tableau Public: https://public.tableau.com/app/profile/cayetanobautista/viz/Big5FootballLeagues2014-2020/Comparator
