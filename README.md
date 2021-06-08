@@ -6,4 +6,6 @@ The process of the work is the following one:
  - Process the data in R by the script shared.
  - Make the viz in Tableau Desktop 2020.4 using the processed data football_final.csv.
 
-The viz is available in Tableau Public: https://public.tableau.com/app/profile/cayetanobautista/viz/Big5FootballLeagues2014-2020/Comparator
+The viz is available also in Tableau Public: https://public.tableau.com/app/profile/cayetanobautista/viz/Big5FootballLeagues2014-2020/Comparator
+
+Note: Tableau woorkbook cannot be opened on GitHub but can be downloaded with the rest of the documents in the zip file, and opened then in local with Tableau Desktop.
